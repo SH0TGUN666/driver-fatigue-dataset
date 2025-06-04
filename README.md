@@ -30,16 +30,16 @@ This dataset was collected to support real-time fatigue detection in drivers usi
 ## 📁 Directory Structure
 
 After extracting the ZIP archive, the dataset follows this structure:
-driver-fatigue-dataset/
-├── train/
-│ ├── images/
-│ └── labels/
-├── val/
-│ ├── images/
-│ └── labels/
-└── test/
-├── images/
-└── labels/
+driver - fatigue - dataset/  
+├── train/  
+│   ├── images/  
+│   └── labels/  
+├── val/  
+│   ├── images/  
+│   └── labels/  
+└── test/  
+    ├── images/  
+    └── labels/  
 
 
 - Each `.jpg` image has a corresponding `.txt` annotation file in YOLO format.
